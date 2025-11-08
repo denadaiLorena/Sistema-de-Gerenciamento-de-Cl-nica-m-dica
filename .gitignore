@@ -1,0 +1,56 @@
+# ============================
+# Arquivos e pastas do Visual Studio
+# ============================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ============================
+# Compilados e temporários
+# ============================
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# ============================
+# Pacotes NuGet
+# ============================
+packages/
+*.nupkg
+*.snupkg
+
+# ============================
+# Arquivos de configuração locais
+# (mantém apenas appsettings.json se for genérico)
+# ============================
+appsettings.*.json
+secrets.json
+
+# ============================
+# Backup e temporários de IDE
+# ============================
+*.tmp
+*.bak
+*.ide
+*.swp
+
+# ============================
+# Pastas do GitHub Copilot e IntelliCode
+# ============================
+.vs/Testando/CopilotIndices/
+.vs/Testando/FileContentIndex/
+
+# ============================
+# Sistema de build (caso use)
+# ============================
+project.lock.json
