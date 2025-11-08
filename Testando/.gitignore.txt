@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilados
+bin/
+obj/
+Debug/
+Release/
+
+# Pacotes NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.cache
+*.bak
+*.ide
+
+# Configurações locais
+appsettings.*.json
